@@ -1,1 +1,2 @@
-print("Hello, Hsing-Hau!")
+print("Hello, Master!")
+print("Learning git is super interesting!!!")
